@@ -17,7 +17,7 @@ search = true
 # Sidebar
 sidebar = "true" # sidebar value (true or false)
 
-# custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
+# custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 
 mainSections = ["blog"]
@@ -83,32 +83,32 @@ mastodon = "" # The URL to your profile a la https://example.com/@username
 sidebar = ["search", "categories", "recent-post", "social"]
 
 ############################# social site ########################
-[[social]]
-title = "facebook"
-icon = "fab fa-facebook" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+# [[social]]
+# title = "facebook"
+# icon = "fab fa-facebook" # fontawesome icon pack : https://fontawesome.com/icons/
+# link = "#"
 
 [[social]]
 title = "twitter"
 icon = "fab fa-twitter" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://twitter.com/KatieT1020"
 
-[[social]]
-title = "mastodon"
-icon = "fab fa-mastodon" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+# [[social]]
+# title = "mastodon"
+# icon = "fab fa-mastodon" # fontawesome icon pack : https://fontawesome.com/icons/
+# link = "#"
 
 [[social]]
 title = "instagram"
 icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://www.instagram.com/therealkatieturner"
 
-[[social]]
-title = "github"
-icon = "fab fa-pinterest" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+# [[social]]
+# title = "github"
+# icon = "fab fa-pinterest" # fontawesome icon pack : https://fontawesome.com/icons/
+# link = "#"
 
-[[social]]
-title = "linkedin"
-icon = "fab fa-youtube" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+# [[social]]
+# title = "linkedin"
+# icon = "fab fa-youtube" # fontawesome icon pack : https://fontawesome.com/icons/
+# link = "#"
