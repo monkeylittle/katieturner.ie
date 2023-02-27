@@ -7,16 +7,33 @@ url = ""
 weight = 1
 
 [[main]]
-name = "About"
-url = "about/"
 weight = 2
+name = "Racing"
+hasChildren = true
 
 [[main]]
-name = "Contact"
-url = "contact/"
+weight = 1
+parent = "Racing"
+name = "Schedule"
+url = "race-schedule/"
+
+[[main]]
+weight = 2
+parent = "Racing"
+name = "Reports"
+url = "categories/race-report"
+
+[[main]]
 weight = 3
+name = "Adventure"
+url = "categories/adventure"
 
 [[main]]
 name = "Garage"
 url = "garage/"
 weight = 4
+
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 10
