@@ -36,3 +36,8 @@ url = "blog/post-1/"
 parent = "Pages"
 name = "Category"
 url = "categories/travel"
+
+[[main]]
+name = "Garage"
+url = "garage/"
+weight = 4
