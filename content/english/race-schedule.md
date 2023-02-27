@@ -1,7 +1,7 @@
 ---
 title: "Race Schedule"
 date: 2023-02-23T15:57:56Z
-draft: true
+draft: false
 ---
 
 <div class="w3-row">

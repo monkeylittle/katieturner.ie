@@ -71,5 +71,5 @@ rel = "manifest"
 ############################# Plugins ##############################
 
 # CSS Plugins
-[[params.plugins.css]]
-link = "https://www.w3schools.com/w3css/4/w3.css"
+# [[params.plugins.css]]
+# link = "https://www.w3schools.com/w3css/4/w3.css"
