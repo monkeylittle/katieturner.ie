@@ -67,14 +67,3 @@ suffixes = [""]
 [outputFormats.WebAppManifest]
 mediaType = "application/manifest+json"
 rel = "manifest"
-
-############################# Plugins ##############################
-
-[[params.plugins.css]]
-link = "https://www.w3schools.com/w3css/4/w3.css"
-# attributes = "your-attributes" # optional field
-
-
-# CSS Plugins
-# [[params.plugins.css]]
-# link = "https://www.w3schools.com/w3css/4/w3.css"
