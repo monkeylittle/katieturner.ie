@@ -10,7 +10,7 @@ draft: false
 
 <div class="container">
   <div class="row">
-    <div class="col-3">
+    <div class="col-md-3">
       <div class="card rounded shadow">
         <div class="card-body p-3">
           <h5 class="card-title">04<sup>th</sup> Saturday</h5>
@@ -19,7 +19,7 @@ draft: false
         </div>
       </div>
     </div>
-    <div class="col-3">
+    <div class="col-md-3">
       <div class="card rounded shadow">
         <div class="card-body p-3">
           <h5 class="card-title">11<sup>th</sup> Saturday</h5>
@@ -28,7 +28,7 @@ draft: false
         </div>
       </div>
     </div>
-    <div class="col-3">
+    <div class="col-md-3">
       <div class="card rounded shadow">
         <div class="card-body p-3">
           <h5 class="card-title">18<sup>th</sup> Saturday</h5>
@@ -37,7 +37,7 @@ draft: false
         </div>
       </div>
     </div>
-    <div class="col-3">
+    <div class="col-md-3">
       <div class="card rounded shadow">
         <div class="card-body p-3">
           <h5 class="card-title">25<sup>th</sup> Saturday</h5>
@@ -55,7 +55,7 @@ draft: false
 
 <div class="container">
   <div class="row">
-    <div class="col-3">
+    <div class="col-md-3">
       <div class="card rounded shadow">
         <div class="card-body p-3">
           <h5 class="card-title">18<sup>th</sup> Saturday</h5>
@@ -64,7 +64,7 @@ draft: false
         </div>
       </div>
     </div>
-    <div class="col-3">
+    <div class="col-md-3">
       <div class="card rounded shadow">
         <div class="card-body p-3">
           <h5 class="card-title">19<sup>th</sup> Sunday</h5>
@@ -73,7 +73,5 @@ draft: false
         </div>
       </div>
     </div>
-
-
   </div>
 </div>

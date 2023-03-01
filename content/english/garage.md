@@ -7,7 +7,7 @@ draft: false
 
 <h4>Canyon Inflite 2021</h4>
 <div class="row">
-  <div class="col-4">
+  <div class="col-md-4">
     <img src="/images/canyon-inflite.jpg" class="round border p-1" alt="Canyon Inflite">
   </div>
   <div class="col">
@@ -18,7 +18,7 @@ draft: false
 
 <h4>Canyon Aeroad 2022</h4>
 <div class="row">
-  <div class="col-4">
+  <div class="col-md-4">
     <img src="/images/canyon-aeroad.jpg" class="round border p-1" alt="Canyon Aeroad">
   </div>
   <div class="col">
