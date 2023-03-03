@@ -22,4 +22,4 @@ Exhausted, Josh lay on the ground beside our gear. He had a fluffy dry robe on a
 
 Post race, I had a burger and I have to say it was one of the best I've ever had. I even think Josh had an extra one and took another for the journey.
 
-We had the prise giving and as happened last year, were awarded a unique prize...a sod of turf!!!  What a fantastic race series.
+We had the prize giving and as happened last year, were awarded a unique prize...a sod of turf!!!  What a fantastic race series.
