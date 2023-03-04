@@ -32,7 +32,7 @@ theme_copyright = false
 copyright = ""
 
 # google tag manager, see https://developers.google.com/tag-manager/
-google_tag_manager = "" # example: G-XXXXXXXXXX
+google_tag_manager = "G-7W928YFK29" # example: G-XXXXXXXXXX
 
 # theme-mode
 theme_switcher = true
