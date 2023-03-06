@@ -3,7 +3,7 @@ date: "2023-02-18"
 title: "The Bog Trials - Round 3"
 image: "images/blog/IMG_0651.jpeg"
 categories: ["Race Report"]
-draft: true
+draft: false
 ---
 
 Round 3 and another chance to take on women's field at The Bog Trials. On the journey down I could see it was going to be a wet race.  On the pre-ride there was a stiff headwind down one of the straights and there was a chill in the air...definitely a day for bib tights.  I went with overshoes to keep my feet dry (or at least a little less wet).
