@@ -156,9 +156,27 @@ draft: false
     <div class="col-md-3">
       <div class="card rounded shadow">
         <div class="card-body p-3">
-          <h5 class="card-title">1<sup>st</sup> Saturday</h5>
+          <h5 class="card-title">01<sup>st</sup> Saturday</h5>
           <hr class="my-3"/>
           <div class="card-text"><span class="fi fi-ie my-0"></span> Kanturk 3-Day<br><sub class="card-subtitle mb-2 text-muted">-</sub></div>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="card rounded shadow">
+        <div class="card-body p-3">
+          <h5 class="card-title">06<sup>th</sup> Saturday</h5>
+          <hr class="my-3"/>
+          <div class="card-text"><span class="fi fi-ie my-0"></span> Orwell One Day<br><sub class="card-subtitle mb-2 text-muted">-</sub></div>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="card rounded shadow">
+        <div class="card-body p-3">
+          <h5 class="card-title">28<sup>th</sup> Sunday</h5>
+          <hr class="my-3"/>
+          <div class="card-text"><span class="fi fi-ie my-0"></span> South Kildare Youth GP<br><sub class="card-subtitle mb-2 text-muted">-</sub></div>
         </div>
       </div>
     </div>
@@ -186,6 +204,98 @@ draft: false
           <h5 class="card-title">25<sup>th</sup> Sunday</h5>
           <hr class="my-3"/>
           <div class="card-text"><span class="fi fi-gb-eng my-0"></span> London 2 Day<br><sub class="card-subtitle mb-2 text-muted">British Cycling Youth Circuit Series</sub></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <h3>July<br>2023</h3>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-3">
+      <div class="card rounded shadow">
+        <div class="card-body p-3">
+          <h5 class="card-title">31<sup>st</sup> Monday</h5>
+          <hr class="my-3"/>
+          <div class="card-text"><span class="fi fi-nl my-0"></span> Junior Tour Assen<br><sub class="card-subtitle mb-2 text-muted">-</sub></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <h3>August<br>2023</h3>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-3">
+      <div class="card rounded shadow">
+        <div class="card-body p-3">
+          <h5 class="card-title">01<sup>st</sup> Tuesday</h5>
+          <hr class="my-3"/>
+          <div class="card-text"><span class="fi fi-nl my-0"></span> Junior Tour Assen<br><sub class="card-subtitle mb-2 text-muted">-</sub></div>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="card rounded shadow">
+        <div class="card-body p-3">
+          <h5 class="card-title">02<sup>nd</sup> Wednesday</h5>
+          <hr class="my-3"/>
+          <div class="card-text"><span class="fi fi-nl my-0"></span> Junior Tour Assen<br><sub class="card-subtitle mb-2 text-muted">-</sub></div>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="card rounded shadow">
+        <div class="card-body p-3">
+          <h5 class="card-title">03<sup>rd</sup> Thursday</h5>
+          <hr class="my-3"/>
+          <div class="card-text"><span class="fi fi-nl my-0"></span> Junior Tour Assen<br><sub class="card-subtitle mb-2 text-muted">-</sub></div>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="card rounded shadow">
+        <div class="card-body p-3">
+          <h5 class="card-title">04<sup>th</sup> Friday</h5>
+          <hr class="my-3"/>
+          <div class="card-text"><span class="fi fi-nl my-0"></span> Junior Tour Assen<br><sub class="card-subtitle mb-2 text-muted">-</sub></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-3">
+      <div class="card rounded shadow">
+        <div class="card-body p-3">
+          <h5 class="card-title">12<sup>th</sup> Saturday</h5>
+          <hr class="my-3"/>
+          <div class="card-text"><span class="fi fi-ie my-0"></span> Youth Track National Championships<br><sub class="card-subtitle mb-2 text-muted">-</sub></div>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="card rounded shadow">
+        <div class="card-body p-3">
+          <h5 class="card-title">19<sup>th</sup> Wednesday</h5>
+          <hr class="my-3"/>
+          <div class="card-text"><span class="fi fi-ie my-0"></span> Youth Road National Championships<br><sub class="card-subtitle mb-2 text-muted">-</sub></div>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="card rounded shadow">
+        <div class="card-body p-3">
+          <h5 class="card-title">20<sup>th</sup> Thursday</h5>
+          <hr class="my-3"/>
+          <div class="card-text"><span class="fi fi-ie my-0"></span> Youth Road National Championships<br><sub class="card-subtitle mb-2 text-muted">-</sub></div>
         </div>
       </div>
     </div>
