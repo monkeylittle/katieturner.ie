@@ -91,7 +91,7 @@ sidebar = ["search", "categories", "recent-post", "social"]
 [[social]]
 title = "twitter"
 icon = "fab fa-twitter" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://twitter.com/KatieT1020"
+link = "https://twitter.com/katieturner_ie"
 
 # [[social]]
 # title = "mastodon"
@@ -101,7 +101,7 @@ link = "https://twitter.com/KatieT1020"
 [[social]]
 title = "instagram"
 icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://www.instagram.com/therealkatieturner"
+link = "https://www.instagram.com/katieturner_ie"
 
 # [[social]]
 # title = "github"
