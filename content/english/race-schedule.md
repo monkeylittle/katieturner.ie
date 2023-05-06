@@ -165,9 +165,18 @@ draft: false
     <div class="col-md-3">
       <div class="card rounded shadow">
         <div class="card-body p-3">
-          <h5 class="card-title">06<sup>th</sup> Saturday</h5>
+          <h5 class="card-title">14<sup>th</sup> Sunday</h5>
           <hr class="my-3"/>
-          <div class="card-text"><span class="fi fi-ie my-0"></span> Orwell One Day<br><sub class="card-subtitle mb-2 text-muted">-</sub></div>
+          <div class="card-text"><span class="fi fi-ie my-0"></span> Leinster TT Championship<br><sub class="card-subtitle mb-2 text-muted">-</sub></div>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="card rounded shadow">
+        <div class="card-body p-3">
+          <h5 class="card-title">14<sup>th</sup> Sunday</h5>
+          <hr class="my-3"/>
+          <div class="card-text"><span class="fi fi-ie my-0"></span> Leinster Road Race Championship<br><sub class="card-subtitle mb-2 text-muted">-</sub></div>
         </div>
       </div>
     </div>
