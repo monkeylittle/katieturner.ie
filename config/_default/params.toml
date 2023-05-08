@@ -40,9 +40,9 @@ theme_default = "system" # available options [light/dark/system]
 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
-keywords = ["Hugo", "Blog", "Statichunt", "iWriter"]
-description = "iWriter is a blog template based on Bootstrap and powered by Hugo"
-author = "Statichunt"
+keywords = ["Cycling", "Racing", "Adventure", "Youth", "Road", "Cyclocross", "Track", "Bike", "Ireland"]
+description = "Racing and adventures of a youth cyclist"
+author = "Katie Turner"
 image = "images/og-image.jpg"      # this image will be used as fallback if a page has no image of its own
 
 # Preloader
