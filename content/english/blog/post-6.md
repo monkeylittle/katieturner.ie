@@ -1,5 +1,5 @@
 ---
-date: "2023-05-05"
+date: "2023-04-30"
 title: "Kanturk Youth 2 Day"
 image: "images/blog/IMG_4513.jpeg"
 categories: ["Race Report"]
