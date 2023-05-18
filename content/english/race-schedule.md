@@ -183,6 +183,18 @@ draft: false
     <div class="col-md-3">
       <div class="card rounded shadow">
         <div class="card-body p-3">
+          <h5 class="card-title">21<sup>st</sup> Sunday</h5>
+          <hr class="my-3"/>
+          <div class="card-text"><span class="fi fi-ie my-0"></span> Carlow Youth Race<br><sub class="card-subtitle mb-2 text-muted">-</sub></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-3">
+      <div class="card rounded shadow">
+        <div class="card-body p-3">
           <h5 class="card-title">28<sup>th</sup> Sunday</h5>
           <hr class="my-3"/>
           <div class="card-text"><span class="fi fi-ie my-0"></span> South Kildare Youth GP<br><sub class="card-subtitle mb-2 text-muted">-</sub></div>
