@@ -2,7 +2,3 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'iwriter Hugo'
 theme = 'iwriter-hugo'
-
-[services]
-  [services.disqus]
-    shortname = 'katieturner'
