@@ -1,5 +1,8 @@
 # katieturner.ie
 
+### hugo theme
+[iWriter](https://github.com/statichunt/iwriter-hugo/tree/main)
+
 ### installing pre-requisites
 ```
 xcode-select --install
