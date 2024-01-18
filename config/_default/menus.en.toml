@@ -21,7 +21,7 @@ url = "race-schedule/"
 weight = 2
 parent = "Racing"
 name = "Reports"
-url = "categories/race-report"
+url = "categories/race"
 
 [[main]]
 weight = 3
